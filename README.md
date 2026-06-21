@@ -12,7 +12,7 @@
 
 Always grinding—whether it's nailing "hello world", building scalable cloud solutions, or integrating AI models and diving deep into blockchain infrastructure. I specialize in the operations, deployment, and infrastructure that make modern impact-driven technology possible.
 
-- 📍 Based in **Bhubaneswar, Odisha**
+- 📍 Based in **India	🇮🇳	**
 - 💼 Check out my portfolio: [dityakp.netlify.app](https://dityakp.netlify.app/)
 - 🌱 Currently exploring advanced AI-integrated architectures & Cloud Native technologies
 - 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/dityakp)
